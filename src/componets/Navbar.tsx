@@ -12,7 +12,7 @@ const NavBar = () => (
           alt='logo'
           width={118}
           height={18}
-          className='object-contain'
+          className='object-containn'
         />
       </Link>
 
